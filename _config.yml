@@ -1,0 +1,15 @@
+title: The Dabbling Developer
+description: Blog that talks all about tech and tutorials and games.
+url: "http://thedabblingdeveloper.com" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: ':title/'
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+
+# Comments
+discus_identifier: theDabbler
+
+# Social settings
+twitter_url: https://twitter.com/thedabblingdev
+facebook_url: https://facebook.com/
+googleplus_url: https://plus.google.com/
+instagram_url: https://instagram.com/thedabblingdev
+github_url: https://github.com/scroft001
